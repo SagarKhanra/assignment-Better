@@ -29,7 +29,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https:https://github.com/SagarKhanra/assignment-Better/edit/main/
+git clone https://github.com/SagarKhanra/assignment-Better/edit/main/](https://github.com/SagarKhanra/assignment-Better.git
 cd your-repository-folder
 Install Dependencies: Make sure you have node and npm installed, then run:
 
